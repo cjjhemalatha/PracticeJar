@@ -1,4 +1,4 @@
-package jenkinsP;
+package com.jenkinsP.Main;
 
 public class PracticeJenkins {
 

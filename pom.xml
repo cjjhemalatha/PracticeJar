@@ -45,7 +45,7 @@
                 <addClasspath>true</addClasspath>
                 <classpathPrefix>libs/</classpathPrefix>
                 <mainClass>
-                   jenkinsP.PracticeJenkins
+                   com.jenkinsP.Main.PracticeJenkins
                 </mainClass>
             </manifest>
         </archive>
