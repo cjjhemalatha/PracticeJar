@@ -1,4 +1,4 @@
-package jenkinsP;
+package com.jenkinsP.Main;
 
 import static org.junit.jupiter.api.Assertions.*;
 
